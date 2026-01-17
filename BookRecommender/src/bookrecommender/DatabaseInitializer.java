@@ -29,6 +29,7 @@ public class DatabaseInitializer {
         
         if (password == null || password.trim().isEmpty()) {
             System.out.println("❌ ERRORE: Password non può essere vuota!");
+            scanner.close();
             return false;
         }
         
@@ -38,6 +39,7 @@ public class DatabaseInitializer {
             testConnection.close();
             DB_PASSWORD = password;
             System.out.println("✅ Password del database verificata correttamente!");
+            scanner.close();
             return true;
         } catch (SQLException e) {
             System.out.println("❌ ERRORE: Impossibile connettersi al database con la password inserita!");
@@ -46,7 +48,10 @@ public class DatabaseInitializer {
             System.out.println("1. PostgreSQL sia in esecuzione");
             System.out.println("2. La password sia corretta");
             System.out.println("3. L'utente 'postgres' abbia i permessi necessari");
+            scanner.close();
             return false;
+        }finally {
+            scanner.close();
         }
     }
     
@@ -70,7 +75,8 @@ public class DatabaseInitializer {
                 System.out.println("\nVuoi riprovare? (s/n): ");
                 String retry = scanner.nextLine().toLowerCase();
                 if (!retry.equals("s") && !retry.equals("si") && !retry.equals("y") && !retry.equals("yes")) {
-                    System.out.println("❌ Setup interrotto. Password del database non valida.");
+                    System.out.println("Setup interrotto. Password del database non valida.");
+                    scanner.close();
                     System.exit(1);
                 }
             }
@@ -83,21 +89,25 @@ public class DatabaseInitializer {
             // Crea tutte le tabelle
             initializer.createTables();
             
-            System.out.println("✅ Database inizializzato con successo!");
+            System.out.println("Database inizializzato con successo!");
             System.out.println("Database: " + DB_NAME);
             System.out.println("Utente: " + DB_USER);
             System.out.println("Host: localhost:5432");
             
         } catch (SQLException e) {
-            System.err.println("❌ Errore durante l'inizializzazione del database:");
+            System.err.println("Errore durante l'inizializzazione del database:");
             System.err.println("Messaggio: " + e.getMessage());
             System.err.println("Codice SQL: " + e.getSQLState());
             e.printStackTrace();
+            scanner.close();
             System.exit(1);
         } catch (Exception e) {
-            System.err.println("❌ Errore generico durante l'inizializzazione:");
+            System.err.println("Errore generico durante l'inizializzazione:");
             e.printStackTrace();
+            scanner.close();
             System.exit(1);
+        }finally {
+            scanner.close();
         }
     }
     
@@ -116,14 +126,14 @@ public class DatabaseInitializer {
                 
                 if (!rs.next()) {
                     // Il database non esiste, lo crea
-                    System.out.println("📁 Creazione del database '" + DB_NAME + "'...");
+                    System.out.println("Creazione del database '" + DB_NAME + "'...");
                     String createDbSql = "CREATE DATABASE " + DB_NAME;
                     try (Statement stmt2 = conn.createStatement()) {
                         stmt2.executeUpdate(createDbSql);
-                        System.out.println("✅ Database '" + DB_NAME + "' creato con successo!");
+                        System.out.println("Database '" + DB_NAME + "' creato con successo!");
                     }
                 } else {
-                    System.out.println("ℹ️ Database '" + DB_NAME + "' già esistente.");
+                    System.out.println("Database '" + DB_NAME + "' già esistente.");
                 }
             }
         }
@@ -135,7 +145,7 @@ public class DatabaseInitializer {
      */
     private void createTables() throws SQLException {
         try (Connection conn = DriverManager.getConnection(DB_URL + DB_NAME, DB_USER, DB_PASSWORD)) {
-            System.out.println("📋 Creazione delle tabelle...");
+            System.out.println("Creazione delle tabelle...");
             
             // Tabella userid
             createUseridTable(conn);
@@ -152,7 +162,7 @@ public class DatabaseInitializer {
             // Tabella librerie
             createLibrerieTable(conn);
             
-            System.out.println("✅ Tutte le tabelle sono state create con successo!");
+            System.out.println("Tutte le tabelle sono state create con successo!");
         }
     }
     
@@ -174,7 +184,7 @@ public class DatabaseInitializer {
         
         try (Statement stmt = conn.createStatement()) {
             stmt.executeUpdate(sql);
-            System.out.println("✅ Tabella 'userid' creata/verificata");
+            System.out.println("Tabella 'userid' creata/verificata");
         }
     }
     
@@ -197,7 +207,7 @@ public class DatabaseInitializer {
         
         try (Statement stmt = conn.createStatement()) {
             stmt.executeUpdate(sql);
-            System.out.println("✅ Tabella 'libri' creata/verificata");
+            System.out.println("Tabella 'libri' creata/verificata");
         }
     }
     
@@ -225,7 +235,7 @@ public class DatabaseInitializer {
         
         try (Statement stmt = conn.createStatement()) {
             stmt.executeUpdate(sql);
-            System.out.println("✅ Tabella 'valutazioni' creata/verificata");
+            System.out.println("Tabella 'valutazioni' creata/verificata");
         }
     }
     
@@ -248,7 +258,7 @@ public class DatabaseInitializer {
         
         try (Statement stmt = conn.createStatement()) {
             stmt.executeUpdate(sql);
-            System.out.println("✅ Tabella 'consigli' creata/verificata");
+            System.out.println("Tabella 'consigli' creata/verificata");
         }
     }
     
@@ -272,7 +282,7 @@ public class DatabaseInitializer {
         
         try (Statement stmt = conn.createStatement()) {
             stmt.executeUpdate(sql);
-            System.out.println("✅ Tabella 'librerie' creata/verificata");
+            System.out.println("Tabella 'librerie' creata/verificata");
         }
     }   
     
@@ -301,7 +311,7 @@ public class DatabaseInitializer {
             }
         }
         
-        System.out.println("✅ " + users.length + " utenti di esempio inseriti");
+        System.out.println(users.length + " utenti di esempio inseriti");
     }
     
     /**
@@ -310,10 +320,10 @@ public class DatabaseInitializer {
      */
     public static boolean testConnection() {
         try (Connection conn = DriverManager.getConnection(DB_URL + DB_NAME, DB_USER, DB_PASSWORD)) {
-            System.out.println("✅ Connessione al database riuscita!");
+            System.out.println("Connessione al database riuscita!");
             return true;
         } catch (SQLException e) {
-            System.err.println("❌ Errore di connessione al database:");
+            System.err.println("Errore di connessione al database:");
             System.err.println("Messaggio: " + e.getMessage());
             return false;
         }
@@ -333,13 +343,13 @@ public class DatabaseInitializer {
                 try (Statement stmt = conn.createStatement();
                      ResultSet rs = stmt.executeQuery("SELECT COUNT(*) FROM " + table)) {
                     if (rs.next()) {
-                        System.out.println("📊 Tabella '" + table + "': " + rs.getInt(1) + " righe");
+                        System.out.println("Tabella '" + table + "': " + rs.getInt(1) + " righe");
                     }
                 }
             }
             
         } catch (SQLException e) {
-            System.err.println("❌ Errore nel recupero delle informazioni del database: " + e.getMessage());
+            System.err.println("Errore nel recupero delle informazioni del database: " + e.getMessage());
         }
     }
 } 

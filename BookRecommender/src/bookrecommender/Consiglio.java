@@ -64,7 +64,7 @@ public class Consiglio {
         return consigliati;
     }
 
-    public String getConsigliAString(){
+    public String getConsigliAsString(){
         return String.join(",", consigliati);
     }
     // Aggiunge un libro alla lista dei consigliati (evitando duplicati)
@@ -87,7 +87,7 @@ public class Consiglio {
  
     // Restituisce una rappresentazione testuale dell'oggetto Consiglio
     public String toString() {
-        return getUserID()+ "," + getTitoloLibro() + "," + String.join(",", getConsigliAString());
+        return getUserID()+ "," + getTitoloLibro() + "," + String.join(",", getConsigliAsString());
     }
 
 

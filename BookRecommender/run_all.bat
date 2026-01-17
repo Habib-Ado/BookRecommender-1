@@ -80,13 +80,13 @@ if /i "%choice%"=="s" (
     echo [OK] Avvio del server...
     start "BookRecommender Server" cmd /k "start_server.bat"
     echo.
-    echo [STEP 4] Passo 4: Avvio del client
+    echo [STEP 4] Passo 4: Avvio del client GUI
     echo ========================================
     echo [WAIT] Attendi 10 secondi per permettere al server di avviarsi...
     echo       (per evitare errori di connessione)
     timeout /t 10 /nobreak >nul
-    echo [OK] Avvio del client...
-    start "BookRecommender Client" cmd /k "start_client.bat"
+    echo [OK] Avvio del client GUI...
+    start "BookRecommender Client GUI" cmd /k "start_gui.bat"
     echo.
     echo [SUCCESS] Setup completato!
     echo.
@@ -95,11 +95,11 @@ if /i "%choice%"=="s" (
     echo - Il client è in esecuzione in una finestra separata
     echo - Chiudi le finestre per fermare i programmi
     echo - Esegui un altro client per testare il sistema multi-utente
-    echo   (usa start_client.bat)
+    echo   (usa start_gui.bat)
     echo.
 ) else (
     echo [SKIP] Avvio server saltato
-    echo Puoi eseguire start_server.bat e start_client.bat manualmente
+    echo Puoi eseguire start_server.bat e start_gui.bat manualmente
 )
 
 echo.

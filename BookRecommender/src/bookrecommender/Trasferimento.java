@@ -84,13 +84,13 @@ public class Trasferimento {
             
             // Verifica se il database è già popolato
             if (!isDatabaseEmpty()) {
-                System.out.println("📚 Il database contiene già dei libri.");
-                System.out.println("ℹ️ Popolamento saltato per evitare duplicazioni e perdita tempo.");
+                System.out.println("Il database contiene già dei libri.");
+                System.out.println("Popolamento saltato per evitare duplicazioni e perdita tempo.");
                 scan.close();
                 return;
             }
             
-            System.out.println("📚 Database vuoto - Avvio popolamento con i libri...");
+            System.out.println("Database vuoto - Avvio popolamento con i libri...");
             
             // Prepara la query SQL per l'inserimento
             String sql = "INSERT INTO libri (titolo, autore, genere, editore, anno) VALUES (?, ?, ?, ?, ?)";

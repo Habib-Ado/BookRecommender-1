@@ -15,11 +15,17 @@ import java.util.UUID;
 public class Client {
 
     private static final int PORT = 1099;
+    private static final String HOST = "localhost";
+    private static final String SERVICE_NAME = "BookRecommender";
+    
     private String sessionId;
 
     public Client() {
         // Genera un sessionId univoco per questo client
         this.sessionId = UUID.randomUUID().toString();
+    }
+    public int getPort(){
+        return PORT;
     }
 
     /**
@@ -31,13 +37,13 @@ public class Client {
     public void start() {
 
         try {
-            Scanner scanner = new Scanner(System.in);
-            Registry registry = LocateRegistry.getRegistry("localhost", PORT);
-            InterfaceBook interfaceBook = (InterfaceBook) registry.lookup("BookRecommender");
-            System.out.println("Connessione al server effettuata con successo");
-            System.out.println("Session ID: " + sessionId);
-            
-            while (true) {
+            try (Scanner scanner = new Scanner(System.in)) {
+                Registry registry = LocateRegistry.getRegistry(HOST, PORT);
+                InterfaceBook interfaceBook = (InterfaceBook) registry.lookup(SERVICE_NAME);
+                System.out.println("Connessione al server effettuata con successo");
+                System.out.println("Session ID: " + sessionId);
+                
+                while (true) {
                 System.out.println("Menu:");
                 System.out.println("1. Visualizza libri");
                 System.out.println("2. Cerca libro con titolo");
@@ -104,7 +110,7 @@ public class Client {
                         while(true){                                        
                         System.out.println("""
                         Scegli un'opzione:
-                        1 → Crea libreria
+                        1 → Registra libreria
                         2 → Aggiungi un libro alla libreria
                         3 → Rimuovi un libro dalla libreria
                         4 → Visualizza la libreria
@@ -113,39 +119,39 @@ public class Client {
                         int scelta0 = Integer.parseInt(scanner.nextLine());
                         switch (scelta0) {
                             case 1:
-                                System.out.println("Crea libreria");
+                                System.out.println("Registrazione libreria");
                                 System.out.println("Inserisci nome libreria: ");
                                 String nomeLibreria = scanner.nextLine();
-                                    System.out.println(interfaceBook.creaLibreria(sessionId, nomeLibreria));
+                                System.out.println(interfaceBook.creaLibreria(sessionId, nomeLibreria));
                                 break;
                             case 2:
                                 System.out.println("Inserisci nome libreria: ");
                                 String nomeLibreria2 = scanner.nextLine();
                                 System.out.println("Inserisci il titolo del libro da aggiungere: ");
                                 String titoloLibro = scanner.nextLine();
-                                    System.out.println(interfaceBook.aggiungiLibroLibreria(sessionId, nomeLibreria2, titoloLibro));
+                                System.out.println(interfaceBook.aggiungiLibroLibreria(sessionId, nomeLibreria2, titoloLibro));
                                 break;
                             case 3:
-                                    System.out.println("Inserisci nome libreria: ");
+                                System.out.println("Inserisci nome libreria: ");
                                 String nomeLibreria3 = scanner.nextLine();
                                 System.out.println("Inserisci il titolo del libro da rimuovere: ");
-                                    String titoloLibro2 = scanner.nextLine();
-                                    System.out.println(interfaceBook.rimuoviLibroLibreria(sessionId, nomeLibreria3, titoloLibro2));
+                                String titoloLibro2 = scanner.nextLine();
+                                System.out.println(interfaceBook.rimuoviLibroLibreria(sessionId, nomeLibreria3, titoloLibro2));
                                 break;
                             case 4:
                                 System.out.println("Inserisci nome libreria: ");
                                 String nomeLibreria4 = scanner.nextLine();
-                                    System.out.println(interfaceBook.visualizzaLibreria(sessionId, nomeLibreria4));
+                                System.out.println(interfaceBook.visualizzaLibreria(sessionId, nomeLibreria4));
                                 break;
                             case 5:
-                                    System.out.println("Torno al menu principale");
+                                System.out.println("Torno al menu principale");
                                 break;
-                                case 0:
-                                    System.out.println("Uscita effettuata con successo.");
-                                    System.exit(0);
-                                default:
-                                    System.out.println("Scelta non valida. Riprova.");
-                                }
+                            case 0:
+                                System.out.println("Uscita effettuata con successo.");
+                                System.exit(0);
+                            default:
+                                System.out.println("Scelta non valida. Riprova.");
+                            }
                             if (scelta0 == 5) break;
                         }
                         break;
@@ -186,9 +192,9 @@ public class Client {
                         String userInfo = interfaceBook.recuperaPassword(username3);
                         System.out.println(userInfo);
                         
-                        // Se l'utente è stato trovato, mostra le opzioni
-                        if (userInfo.contains("✅ UTENTE TROVATO")) {
-                            System.out.println("\n📋 OPZIONI DISPONIBILI:");
+                        // Se l'utente e' stato trovato, mostra le opzioni
+                        if (userInfo.contains("UTENTE TROVATO")) {
+                            System.out.println("\nOPZIONI DISPONIBILI:");
                             System.out.println("1. Genera nuova password temporanea");
                             System.out.println("2. Cambia password (richiede login)");
                             System.out.println("3. Torna al menu principale");
@@ -199,14 +205,14 @@ public class Client {
                             
                             switch (opzionePassword) {
                                 case 1:
-                                    System.out.println("🔄 Generazione password temporanea...");
+                                    System.out.println("Generazione password temporanea...");
                                     String nuovaPassword = interfaceBook.generaPasswordTemporanea(username3);
                                     System.out.println(nuovaPassword);
-                                    System.out.println("\n⚠️  IMPORTANTE: Cambia questa password al prossimo login!");
+                                    System.out.println("\nIMPORTANTE: Cambia questa password al prossimo login!");
                                     break;
                                 case 2:
                                     System.out.println("=== CAMBIA PASSWORD ===");
-                                    System.out.println("⚠️  NOTA: Devi essere loggato per cambiare la password");
+                                    System.out.println("NOTA: Devi essere loggato per cambiare la password");
                                     System.out.println("Inserisci username: ");
                                     String usernameCambio = scanner.nextLine();
                                     System.out.println("Inserisci password attuale: ");
@@ -220,7 +226,7 @@ public class Client {
                                         String risultatoCambio = interfaceBook.cambiaPassword(sessionId, usernameCambio, oldPassword, newPassword);
                                         System.out.println(risultatoCambio);
                                     } else {
-                                        System.out.println("❌ ERRORE: Le password non coincidono!");
+                                        System.out.println("ERRORE: Le password non coincidono!");
                                     }
                                     break;
                                 case 3:
@@ -239,6 +245,7 @@ public class Client {
                         System.out.println("Scelta non valida. Riprova.");
                 }
             }
+        }
         } catch (Exception e) {
             System.err.println("Errore del client: " + e.getMessage());
             e.printStackTrace();
@@ -269,8 +276,6 @@ public class Client {
      */
     public static void main(String[] args) {
         try {
-            Registry registry = LocateRegistry.getRegistry("localhost", 1099);
-            InterfaceBook interfaceBook = (InterfaceBook) registry.lookup("BookRecommender");
             Client client = new Client();
             client.start();
         } catch (Exception e) {
@@ -278,4 +283,5 @@ public class Client {
             e.printStackTrace();
         }
     }
+    
 }

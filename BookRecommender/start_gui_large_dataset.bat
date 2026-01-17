@@ -1,6 +1,6 @@
 @echo off
 echo ========================================
-echo BookRecommender - GUI Interface
+echo BookRecommender - GUI per Dataset Grandi
 echo ========================================
 echo.
 
@@ -33,10 +33,11 @@ if not exist "bin\bookrecommender\*.class" (
     )
 )
 
-echo [OK] Avvio dell'interfaccia GUI...
+echo [OK] Avvio dell'interfaccia GUI per dataset grandi...
 echo.
 echo [INFO] NOTE:
 echo - Assicurati che il server sia già in esecuzione
+echo - Questa versione usa memoria extra per dataset grandi
 echo - L'interfaccia GUI si connetterà al server su localhost:1099
 echo - Ogni client GUI avrà una sessione univoca
 echo.
@@ -45,10 +46,15 @@ echo    1. Il server RMI sia in esecuzione
 echo    2. PostgreSQL sia attivo
 echo    3. La password del database sia corretta
 echo.
+echo [INFO] OPZIONI MEMORIA:
+echo - Heap massimo: 2048MB
+echo - Heap iniziale: 512MB
+echo - Garbage Collector: G1GC (ottimizzato per grandi dataset)
+echo.
 
-REM Avvia l'interfaccia GUI con opzioni di memoria ottimizzate
-java -Xmx1024m -Xms256m -XX:+UseG1GC -cp "bin;lib/*" bookrecommender.BookRecommenderGUI
+REM Avvia l'interfaccia GUI con opzioni di memoria per dataset grandi
+java -Xmx2048m -Xms512m -XX:+UseG1GC -XX:+UseStringDeduplication -cp "bin;lib/*" bookrecommender.BookRecommenderGUI
 
 echo.
 echo [OK] Interfaccia GUI chiusa
-pause 
+pause

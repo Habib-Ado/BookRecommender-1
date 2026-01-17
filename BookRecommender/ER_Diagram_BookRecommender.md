@@ -2,8 +2,9 @@
 
 ## Entità e Relazioni del Sistema BookRecommender
 
-```mermaid
-erDiagram
+```
+Diagram_ER
+
     USERID {
         string userid PK "Chiave primaria"
         string nome_cognome "Nome e cognome utente"
@@ -45,15 +46,16 @@ erDiagram
     }
     
     %% Relazioni
-    USERID ||--o{ VALUTAZIONI : "valuta"
-    LIBRI ||--o{ VALUTAZIONI : "riceve_valutazioni"
+    USERID ||-->{ VALUTAZIONI : "valuta"
+    LIBRI ||-->{ VALUTAZIONI : "riceve_valutazioni"
     
-    USERID ||--o{ CONSIGLI : "fornisce_consigli"
-    LIBRI ||--o{ CONSIGLI : "libro_referenziale"
-    LIBRI ||--o{ CONSIGLI : "libro_consigliato"
+    USERID ||-->{ CONSIGLI : "fornisce_consigli"
+    LIBRI ||-->{ CONSIGLI : "libro_referenziale"
+    LIBRI ||-->{ CONSIGLI : "libro_consigliato"
     
-    USERID ||--o{ LIBRERIE : "possiede"
-    LIBRI ||--o{ LIBRERIE : "contenuto_in"
+    USERID ||-->{ LIBRERIE : "possiede"
+    LIBRI ||-->{ LIBRERIE : "contenuto_in"
+    
 ```
 
 ## Descrizione delle Entità
