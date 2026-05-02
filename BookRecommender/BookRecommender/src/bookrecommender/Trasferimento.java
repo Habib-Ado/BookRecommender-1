@@ -20,13 +20,36 @@ import java.sql.*;
 public class Trasferimento implements Serializable {
     private static final long serialVersionUID = 1L;
 
-    // Percorso del file CSV di input
-    private static final String FILE_CSV = "./dati/BooksDatasetClean.csv";
+    // Nome e cartella del file CSV di input
+    private static final String CSV_DIR = "dati";
+    private static final String CSV_FILE_NAME = "BooksDatasetClean.csv";
     
     // Dettagli di connessione al database PostgreSQL
     private static String DB_URL; // Il database URL sarà costruito dinamicamente in base alla password inserita
     private static String DB_USER;
     private static String DB_PASSWORD;
+
+    private static File getCsvFile() {
+        File current = new File(System.getProperty("user.dir"));
+        File candidate = new File(current, CSV_DIR + File.separator + CSV_FILE_NAME);
+        if (candidate.exists()) {
+            return candidate;
+        }
+
+        try {
+            File codeLocation = new File(Trasferimento.class.getProtectionDomain().getCodeSource().getLocation().toURI());
+            File codeRoot = codeLocation.isFile() ? codeLocation.getParentFile() : codeLocation;
+            File projectRoot = codeRoot.getName().equals("bin") ? codeRoot.getParentFile() : codeRoot;
+            File alternate = new File(projectRoot, CSV_DIR + File.separator + CSV_FILE_NAME);
+            if (alternate.exists()) {
+                return alternate;
+            }
+        } catch (Exception ignored) {
+            // Ignora errori di risoluzione del percorso; useremo il percorso di default
+        }
+
+        return candidate;
+    }
     
     // Connessione al database
     private static Connection conn = null;
@@ -73,10 +96,12 @@ public class Trasferimento implements Serializable {
         DB_PASSWORD = dbPassword;
 
         // Verifica l'esistenza del file CSV
-        File file = new File(FILE_CSV);
+        File file = getCsvFile();
+        String filePath = file.getAbsolutePath();
 
         if (!file.exists()) {
-            System.err.println("File non trovato: " + FILE_CSV);
+            System.err.println("File non trovato: " + filePath);
+            System.err.println("Percorso cercato: " + System.getProperty("user.dir") + File.separator + CSV_DIR + File.separator + CSV_FILE_NAME);
             return;
         }
 
@@ -105,7 +130,7 @@ public class Trasferimento implements Serializable {
             // Prepara la query SQL per l'inserimento
             String sql = "INSERT INTO libri (titolo, autore, genere, editore, anno) VALUES (?, ?, ?, ?, ?)";
             
-            try (BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(FILE_CSV), "UTF-8"));
+            try (BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(file), "UTF-8"));
                  PreparedStatement pstmt = conn.prepareStatement(sql)) {
                 
                 // Ignora la prima riga (intestazione del CSV)

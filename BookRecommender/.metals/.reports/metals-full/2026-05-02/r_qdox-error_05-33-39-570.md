@@ -1,3 +1,14 @@
+error id: file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java
+file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java
+### com.thoughtworks.qdox.parser.ParseException: syntax error @[352,15]
+
+error in qdox parser
+file content:
+```java
+offset: 13046
+uri: file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java
+text:
+```scala
 package bookrecommender;
 
 import models.InterfaceBook;
@@ -118,11 +129,11 @@ public class Client {
             return;
         }
         System.out.println("1. Visualizza libri");
-        System.out.println("2. Per cercare libri");
-        System.out.println("3. Gestione libreria");
-        System.out.println("4. Inserisci valutazione libro");
-        System.out.println("5. Inserisci consiglio libro");
-        System.out.println("6. Visualizza profilo");
+        System.out.println("2.
+        System.out.println("5. Gestione libreria");
+        System.out.println("6. Inserisci valutazione libro");
+        System.out.println("7. Inserisci consiglio libro");
+        System.out.println("8. Visualizza profilo");
         System.out.println("9. Modifica profilo");
         System.out.println("10. Cambia password");
         System.out.println("11. Logout");
@@ -135,24 +146,30 @@ public class Client {
                 visualizzaLibri();
                 break;
             case 2:
-                ricercaLibri();
+                cercaLibroConTitolo();
                 break;
             case 3:
-                gestioneLibreria();
+                cercaLibroConAutore();
                 break;
             case 4:
-                inserisciValutazioneLibro();
+                cercaLibroConAutoreAnno();
                 break;
             case 5:
-                inserisciConsiglioLibro();
+                gestioneLibreria();
                 break;
             case 6:
-                gestioneProfilo();
+                inserisciValutazioneLibro();
                 break;
             case 7:
-                visualizzaListaUtenti();
+                inserisciConsiglioLibro();
                 break;
             case 8:
+                gestioneProfilo();
+                break;
+            case 9:
+                visualizzaListaUtenti();
+                break;
+            case 10:
                 logout();
                 break;
             case 0:
@@ -164,36 +181,6 @@ public class Client {
                 }
             default:
                 System.out.println("Opzione non valida.");
-        }
-    }
-
-    private void ricercaLibri(){
-        while(true){
-            System.out.println("RICERCA LIBRI");
-            System.out.println("1. Cerca libro con titolo");
-            System.out.println("2. Cerca libro con autore");
-            System.out.println("3. Cerca libro con autore e anno");
-            System.out.println("4. Torna al menu principale");  
-            System.out.print("Scegli un'opzione:");
-
-            int scelta0 = leggiIntero(scanner.nextLine());
-
-            switch (scelta0) {
-                case 1:
-                    cercaLibroConTitolo();
-                    break;
-                case 2:
-                    cercaLibroConAutore();
-                    break;
-                case 3:
-                    cercaLibroConAutoreAnno();
-                    break;
-                case 4:
-                    System.out.println("Torno al menu principale");
-                    break;
-                default:
-                    System.out.println("Scelta non valida. Riprova.");
-            }
         }
     }
 
@@ -373,7 +360,7 @@ public class Client {
                     System.out.println("Il tuo profilo è stato eliminato. Arrivederci!");
                     System.exit(0);
                 }
-            } else {
+            } e@@lse {
                 System.out.println("Eliminazione del profilo annullata.");
             }
         }catch(Exception e){
@@ -570,3 +557,42 @@ public class Client {
     }
 
 }
+
+```
+
+```
+
+
+
+#### Error stacktrace:
+
+```
+com.thoughtworks.qdox.parser.impl.Parser.yyerror(Parser.java:2025)
+	com.thoughtworks.qdox.parser.impl.Parser.yyparse(Parser.java:2147)
+	com.thoughtworks.qdox.parser.impl.Parser.parse(Parser.java:2006)
+	com.thoughtworks.qdox.library.SourceLibrary.parse(SourceLibrary.java:232)
+	com.thoughtworks.qdox.library.SourceLibrary.parse(SourceLibrary.java:190)
+	com.thoughtworks.qdox.library.SourceLibrary.addSource(SourceLibrary.java:94)
+	com.thoughtworks.qdox.library.SourceLibrary.addSource(SourceLibrary.java:89)
+	com.thoughtworks.qdox.library.SortedClassLibraryBuilder.addSource(SortedClassLibraryBuilder.java:162)
+	com.thoughtworks.qdox.JavaProjectBuilder.addSource(JavaProjectBuilder.java:174)
+	scala.meta.internal.mtags.JavaMtags.indexRoot(JavaMtags.scala:49)
+	scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:99)
+	scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:560)
+	scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:691)
+	scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:688)
+	scala.collection.IterableOnceOps.foreach(IterableOnce.scala:630)
+	scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:628)
+	scala.collection.AbstractIterator.foreach(Iterator.scala:1313)
+	scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:688)
+	scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:940)
+	scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	scala.concurrent.Future$.$anonfun$apply$1(Future.scala:691)
+	scala.concurrent.impl.Promise$Transformation.run(Promise.scala:500)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	java.base/java.lang.Thread.run(Thread.java:1583)
+```
+#### Short summary: 
+
+QDox parse error in file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java

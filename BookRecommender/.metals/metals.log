@@ -3795,3 +3795,1038 @@ AVVERTENZA: Unmatched cancel notification for request id 2
 
 2026.05.02 05:08:20 INFO  time: code lens generation in 9.32s
 2026.05.02 05:08:22 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:08:45 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:08:52 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java
+2026.05.02 05:08:52 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java. Using fallback presentation compiler.
+2026.05.02 05:08:57 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/server/Server.java. Output:
+
+2026.05.02 05:08:58 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java
+2026.05.02 05:08:58 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java. Using fallback presentation compiler.
+2026.05.02 05:08:58 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java. Using fallback presentation compiler.
+mag 02, 2026 5:09:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 13
+2026.05.02 05:09:01 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:09:19 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java. Using fallback presentation compiler.
+2026.05.02 05:09:34 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java
+2026.05.02 05:09:35 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:09:46 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:09:47 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:09:47 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java
+2026.05.02 05:09:51 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/BookRecommender.java. Output:
+
+mag 02, 2026 5:09:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 23
+2026.05.02 05:09:51 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:09:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 30
+mag 02, 2026 5:09:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 26
+2026.05.02 05:09:56 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:10:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 32
+mag 02, 2026 5:10:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 33
+mag 02, 2026 5:10:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 27
+mag 02, 2026 5:10:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 29
+2026.05.02 05:10:17 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:10:19 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:10:24 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:10:29 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java. Using fallback presentation compiler.
+2026.05.02 05:10:30 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java. Using fallback presentation compiler.
+2026.05.02 05:10:31 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java
+2026.05.02 05:10:33 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java. Using fallback presentation compiler.
+2026.05.02 05:10:34 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java. Using fallback presentation compiler.
+2026.05.02 05:10:34 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java. Using fallback presentation compiler.
+mag 02, 2026 5:10:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 34
+mag 02, 2026 5:10:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 35
+mag 02, 2026 5:10:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 36
+mag 02, 2026 5:10:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 37
+mag 02, 2026 5:10:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 38
+mag 02, 2026 5:10:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 39
+mag 02, 2026 5:10:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 43
+mag 02, 2026 5:10:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 44
+2026.05.02 05:10:36 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java. Using fallback presentation compiler.
+2026.05.02 05:10:36 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java. Using fallback presentation compiler.
+2026.05.02 05:10:37 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java. Using fallback presentation compiler.
+2026.05.02 05:10:37 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java. Using fallback presentation compiler.
+mag 02, 2026 5:10:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 51
+mag 02, 2026 5:10:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 52
+mag 02, 2026 5:10:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 42
+mag 02, 2026 5:10:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 40
+mag 02, 2026 5:10:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 48
+2026.05.02 05:10:38 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:10:41 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java
+mag 02, 2026 5:10:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 53
+2026.05.02 05:10:41 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:10:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 57
+2026.05.02 05:10:44 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:10:44 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:10:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 59
+mag 02, 2026 5:10:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 55
+mag 02, 2026 5:10:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 56
+2026.05.02 05:10:44 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\InterfaceImpl.java. Using fallback presentation compiler.
+2026.05.02 05:10:44 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\InterfaceImpl.java
+2026.05.02 05:10:45 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/server/InterfaceImpl.java. Output:
+
+2026.05.02 05:10:45 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\InterfaceImpl.java. Using fallback presentation compiler.
+2026.05.02 05:10:46 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\InterfaceImpl.java. Using fallback presentation compiler.
+mag 02, 2026 5:10:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 60
+mag 02, 2026 5:10:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 63
+2026.05.02 05:10:46 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\InterfaceImpl.java. Using fallback presentation compiler.
+mag 02, 2026 5:10:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 68
+2026.05.02 05:10:47 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\InterfaceImpl.java. Using fallback presentation compiler.
+2026.05.02 05:10:47 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\InterfaceImpl.java. Using fallback presentation compiler.
+2026.05.02 05:10:49 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:10:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 71
+2026.05.02 05:10:52 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java
+2026.05.02 05:10:54 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:10:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 75
+2026.05.02 05:11:02 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 77
+2026.05.02 05:11:02 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:11:09 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:11:11 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 82
+2026.05.02 05:11:14 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 83
+2026.05.02 05:11:17 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 84
+2026.05.02 05:11:18 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 85
+2026.05.02 05:11:18 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 86
+2026.05.02 05:11:20 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 87
+2026.05.02 05:11:22 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 88
+2026.05.02 05:11:22 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 89
+2026.05.02 05:11:22 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:11:24 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:11:24 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 92
+2026.05.02 05:11:26 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:11:28 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:11:30 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 95
+2026.05.02 05:11:30 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:11:30 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 97
+2026.05.02 05:11:31 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 98
+2026.05.02 05:11:32 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 99
+2026.05.02 05:11:33 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 100
+2026.05.02 05:11:35 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 101
+2026.05.02 05:11:35 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:11:36 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:11:36 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 104
+2026.05.02 05:11:38 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:11:39 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 105
+mag 02, 2026 5:11:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 106
+2026.05.02 05:11:39 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 107
+2026.05.02 05:11:41 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 110
+2026.05.02 05:11:41 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:11:41 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:11:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 115
+mag 02, 2026 5:11:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 113
+2026.05.02 05:11:46 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:12:20 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:13:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAZIONI: Unsupported notification method: $/setTrace
+mag 02, 2026 5:13:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAZIONI: Unsupported notification method: $/setTrace
+2026.05.02 05:14:25 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:14:27 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:14:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 126
+2026.05.02 05:14:32 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:14:36 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:14:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 129
+2026.05.02 05:14:37 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:14:38 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:14:38 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:14:40 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java
+2026.05.02 05:14:41 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:14:41 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+mag 02, 2026 5:14:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 131
+2026.05.02 05:14:42 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Trasferimento.java. Output:
+
+2026.05.02 05:14:42 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:14:43 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:14:45 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:14:49 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:15:29 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+mag 02, 2026 5:15:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 156
+2026.05.02 05:15:37 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:15:46 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+mag 02, 2026 5:15:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 168
+mag 02, 2026 5:15:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 169
+mag 02, 2026 5:15:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 170
+2026.05.02 05:15:51 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:15:59 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\InterfaceImpl.java. Using fallback presentation compiler.
+2026.05.02 05:16:00 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\InterfaceImpl.java
+2026.05.02 05:16:13 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\InterfaceImpl.java. Using fallback presentation compiler.
+mag 02, 2026 5:16:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 186
+2026.05.02 05:16:14 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\InterfaceImpl.java. Using fallback presentation compiler.
+2026.05.02 05:16:13 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:16:15 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java
+2026.05.02 05:16:15 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:16:16 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+mag 02, 2026 5:16:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 190
+mag 02, 2026 5:16:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 192
+mag 02, 2026 5:16:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 196
+mag 02, 2026 5:16:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 197
+2026.05.02 05:16:19 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:16:20 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+mag 02, 2026 5:16:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 201
+2026.05.02 05:16:20 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:16:22 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:16:22 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:16:23 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:16:23 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:16:24 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:16:24 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:16:25 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:16:29 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:16:29 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:16:29 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:16:30 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:16:30 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:16:30 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:16:33 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:16:33 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:16:33 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+mag 02, 2026 5:17:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 245
+2026.05.02 05:17:06 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+mag 02, 2026 5:17:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 250
+2026.05.02 05:17:07 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:17:09 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+mag 02, 2026 5:17:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 252
+2026.05.02 05:17:09 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+mag 02, 2026 5:17:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 253
+2026.05.02 05:17:10 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+mag 02, 2026 5:17:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 254
+2026.05.02 05:17:10 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:18:10 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:18:56 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:18:56 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:18:56 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+mag 02, 2026 5:18:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 257
+mag 02, 2026 5:18:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 258
+2026.05.02 05:19:06 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:19:08 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:19:27 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java
+2026.05.02 05:19:30 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/BookRecommender.java. Output:
+
+2026.05.02 05:19:48 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:19:50 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:19:53 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+mag 02, 2026 5:19:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 268
+2026.05.02 05:19:53 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:20:08 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:20:10 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:20:10 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:20:11 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:20:11 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:20:12 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:20:12 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:20:56 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:20:56 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:20:59 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:21:00 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java
+mag 02, 2026 5:21:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 281
+2026.05.02 05:21:02 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:21:03 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:21:05 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:23:45 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\DatabaseInitializer.java
+2026.05.02 05:23:46 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/DatabaseInitializer.java. Output:
+
+2026.05.02 05:23:47 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:24:00 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java. Using fallback presentation compiler.
+2026.05.02 05:24:02 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java
+2026.05.02 05:24:03 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Trasferimento.java. Output:
+
+2026.05.02 05:24:03 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:24:03 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:24:35 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:24:35 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java
+2026.05.02 05:24:37 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Trasferimento.java. Output:
+
+2026.05.02 05:24:39 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:25:04 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:25:04 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java
+2026.05.02 05:25:04 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:25:07 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Trasferimento.java. Output:
+
+2026.05.02 05:25:12 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:25:12 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:25:12 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java
+2026.05.02 05:25:15 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:25:16 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:25:22 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java
+2026.05.02 05:25:23 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Trasferimento.java. Output:
+
+2026.05.02 05:25:23 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:25:32 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\DatabaseInitializer.java. Using fallback presentation compiler.
+2026.05.02 05:25:37 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:25:39 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\InterfaceImpl.java. Using fallback presentation compiler.
+2026.05.02 05:25:39 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java. Using fallback presentation compiler.
+2026.05.02 05:25:41 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\InterfaceImpl.java. Using fallback presentation compiler.
+2026.05.02 05:25:41 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\DatabaseInitializer.java. Using fallback presentation compiler.
+2026.05.02 05:25:41 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java
+2026.05.02 05:25:44 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/BookRecommender.java. Output:
+
+2026.05.02 05:25:44 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:25:44 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\InterfaceImpl.java. Using fallback presentation compiler.
+2026.05.02 05:25:45 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:25:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 322
+2026.05.02 05:25:45 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:25:45 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:25:46 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java. Using fallback presentation compiler.
+2026.05.02 05:25:47 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java. Using fallback presentation compiler.
+2026.05.02 05:25:49 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\InterfaceImpl.java. Using fallback presentation compiler.
+2026.05.02 05:25:49 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:25:52 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\server\Server.java. Using fallback presentation compiler.
+2026.05.02 05:25:52 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:26:12 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:26:12 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+mag 02, 2026 5:26:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 355
+2026.05.02 05:26:12 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+mag 02, 2026 5:26:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 356
+2026.05.02 05:26:12 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+mag 02, 2026 5:26:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 357
+2026.05.02 05:26:13 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:26:44 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\DatabaseInitializer.java. Using fallback presentation compiler.
+2026.05.02 05:26:59 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:27:02 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+mag 02, 2026 5:27:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 367
+2026.05.02 05:27:02 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:27:07 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:27:16 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:27:32 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+mag 02, 2026 5:27:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 409
+2026.05.02 05:27:32 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:27:35 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:27:35 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+2026.05.02 05:28:06 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Trasferimento.java. Using fallback presentation compiler.
+mag 02, 2026 5:28:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 433
+2026.05.02 05:28:41 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:32:17 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:32:17 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:32:18 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:32:18 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java. Output:
+
+2026.05.02 05:32:18 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:32:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 521
+mag 02, 2026 5:32:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 524
+2026.05.02 05:32:18 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:32:20 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:32:25 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:32:31 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:32:31 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:32:33 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:32:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 536
+2026.05.02 05:32:33 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:32:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 537
+2026.05.02 05:32:34 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:32:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 538
+2026.05.02 05:32:34 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:32:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 539
+2026.05.02 05:32:34 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:32:35 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:32:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 541
+2026.05.02 05:32:35 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:32:44 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:32:45 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:32:45 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:32:45 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:32:46 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:32:55 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:32:57 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:32:57 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:33:21 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:33:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 555
+2026.05.02 05:33:21 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:33:22 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:33:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 557
+2026.05.02 05:33:24 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:33:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 560
+2026.05.02 05:33:24 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:33:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 561
+2026.05.02 05:33:25 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:33:25 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:33:27 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:33:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 564
+2026.05.02 05:33:27 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:33:30 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:33:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 566
+2026.05.02 05:33:31 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:33:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 567
+mag 02, 2026 5:33:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 568
+2026.05.02 05:33:31 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:33:33 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:33:33 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:33:34 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:33:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 571
+2026.05.02 05:33:36 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:33:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 577
+2026.05.02 05:33:37 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java. Output:
+
+2026.05.02 05:33:37 INFO  time: code lens generation in 1.59s
+mag 02, 2026 5:33:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 578
+2026.05.02 05:33:38 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:33:39 INFO  Created report: Optional[file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java]
+2026.05.02 05:33:39 INFO  QDox parse error in file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java (full report at: "C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\.metals\.reports\metals-full\2026-05-02\r_qdox-error_05-33-39-570.md")
+2026.05.02 05:33:39 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:33:39 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:33:39 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:33:39 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:33:42 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:33:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 587
+mag 02, 2026 5:33:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 586
+2026.05.02 05:33:48 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:33:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 588
+mag 02, 2026 5:33:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 589
+2026.05.02 05:33:48 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:33:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 590
+2026.05.02 05:33:48 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:33:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 591
+mag 02, 2026 5:33:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 592
+mag 02, 2026 5:33:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 593
+2026.05.02 05:34:01 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:34:02 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java. Output:
+
+mag 02, 2026 5:34:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 594
+2026.05.02 05:34:14 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 595
+mag 02, 2026 5:34:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 596
+mag 02, 2026 5:34:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 598
+2026.05.02 05:34:18 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:18 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 600
+2026.05.02 05:34:18 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:20 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:34:20 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 606
+mag 02, 2026 5:34:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 597
+2026.05.02 05:34:22 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 601
+mag 02, 2026 5:34:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 602
+mag 02, 2026 5:34:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 604
+2026.05.02 05:34:22 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:22 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 611
+mag 02, 2026 5:34:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 612
+mag 02, 2026 5:34:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 614
+2026.05.02 05:34:24 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:25 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 615
+mag 02, 2026 5:34:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 616
+mag 02, 2026 5:34:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 617
+mag 02, 2026 5:34:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 618
+mag 02, 2026 5:34:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 619
+2026.05.02 05:34:26 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:34:27 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 621
+mag 02, 2026 5:34:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 622
+mag 02, 2026 5:34:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 623
+2026.05.02 05:34:27 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:27 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java. Output:
+
+mag 02, 2026 5:34:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 624
+2026.05.02 05:34:27 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 627
+2026.05.02 05:34:29 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:29 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 628
+mag 02, 2026 5:34:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 629
+mag 02, 2026 5:34:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 630
+mag 02, 2026 5:34:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 631
+2026.05.02 05:34:29 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:30 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 632
+mag 02, 2026 5:34:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 633
+mag 02, 2026 5:34:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 634
+mag 02, 2026 5:34:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 635
+2026.05.02 05:34:30 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 636
+mag 02, 2026 5:34:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 637
+mag 02, 2026 5:34:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 638
+mag 02, 2026 5:34:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 640
+2026.05.02 05:34:32 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+mag 02, 2026 5:34:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 641
+2026.05.02 05:34:32 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:35 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 643
+mag 02, 2026 5:34:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 644
+2026.05.02 05:34:36 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:36 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 647
+2026.05.02 05:34:37 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:34:37 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 648
+mag 02, 2026 5:34:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 649
+mag 02, 2026 5:34:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 650
+mag 02, 2026 5:34:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 651
+mag 02, 2026 5:34:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 652
+mag 02, 2026 5:34:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 653
+2026.05.02 05:34:37 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:39 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+mag 02, 2026 5:34:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 656
+2026.05.02 05:34:39 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:41 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 658
+mag 02, 2026 5:34:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 655
+2026.05.02 05:34:41 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 654
+mag 02, 2026 5:34:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 657
+2026.05.02 05:34:41 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:43 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 661
+2026.05.02 05:34:43 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 662
+mag 02, 2026 5:34:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 663
+mag 02, 2026 5:34:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 664
+2026.05.02 05:34:43 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:44 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:34:44 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:46 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:46 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java. Output:
+
+2026.05.02 05:34:47 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 670
+mag 02, 2026 5:34:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 671
+mag 02, 2026 5:34:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 672
+2026.05.02 05:34:47 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 673
+mag 02, 2026 5:34:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 674
+mag 02, 2026 5:34:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 675
+mag 02, 2026 5:34:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 676
+2026.05.02 05:34:50 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+mag 02, 2026 5:34:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 677
+2026.05.02 05:34:50 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 679
+2026.05.02 05:34:51 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:34:52 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:53 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 684
+mag 02, 2026 5:34:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 685
+mag 02, 2026 5:34:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 680
+2026.05.02 05:34:53 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 686
+2026.05.02 05:34:53 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 681
+mag 02, 2026 5:34:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 682
+mag 02, 2026 5:34:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 683
+2026.05.02 05:34:53 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:53 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 688
+2026.05.02 05:34:55 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:34:55 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 694
+2026.05.02 05:34:55 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:34:55 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java. Output:
+
+2026.05.02 05:34:55 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 697
+mag 02, 2026 5:34:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 696
+2026.05.02 05:34:56 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:56 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 702
+2026.05.02 05:34:56 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:56 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 703
+mag 02, 2026 5:34:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 704
+2026.05.02 05:34:57 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 705
+2026.05.02 05:34:57 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:34:58 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:34:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 707
+2026.05.02 05:34:59 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:36:29 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:36:52 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:36:53 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:36:54 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:36:56 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java. Output:
+
+2026.05.02 05:36:59 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:37:08 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:37:13 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:37:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 718
+2026.05.02 05:37:15 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:37:15 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:37:15 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:37:15 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:37:17 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:37:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 727
+mag 02, 2026 5:37:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 728
+2026.05.02 05:37:18 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+mag 02, 2026 5:37:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 729
+2026.05.02 05:37:18 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:37:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 732
+2026.05.02 05:37:18 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:37:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 734
+mag 02, 2026 5:37:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 735
+2026.05.02 05:37:20 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:37:21 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java. Output:
+
+2026.05.02 05:37:23 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:37:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 741
+mag 02, 2026 5:37:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 742
+mag 02, 2026 5:37:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 743
+mag 02, 2026 5:37:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 744
+2026.05.02 05:37:24 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:37:24 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:37:24 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:37:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 750
+2026.05.02 05:37:25 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:37:25 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:37:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 753
+mag 02, 2026 5:37:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 754
+mag 02, 2026 5:37:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 756
+2026.05.02 05:37:25 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:37:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 758
+2026.05.02 05:37:25 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:37:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 759
+2026.05.02 05:37:27 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+mag 02, 2026 5:37:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 760
+mag 02, 2026 5:37:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 762
+mag 02, 2026 5:37:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 763
+2026.05.02 05:37:27 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:37:29 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:37:29 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:37:30 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:37:30 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:37:30 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:37:32 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java. Output:
+
+2026.05.02 05:37:34 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:37:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 776
+mag 02, 2026 5:37:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 775
+2026.05.02 05:37:35 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:37:36 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:04 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:04 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:05 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:06 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:06 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:07 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:11 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:23 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:24 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:24 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:24 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:25 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:26 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:25 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:39:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 799
+2026.05.02 05:39:26 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:39:26 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:26 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java. Output:
+
+2026.05.02 05:39:28 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:31 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:39:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 805
+2026.05.02 05:39:31 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:32 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:39:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 807
+2026.05.02 05:39:34 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:39:34 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:34 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:39:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 811
+2026.05.02 05:39:35 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java. Output:
+
+2026.05.02 05:39:38 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:38 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:38 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:39 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:41 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:41 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:39:41 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:42 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java. Output:
+
+2026.05.02 05:39:45 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:48 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:48 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:49 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:51 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:39:52 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:52 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:52 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java. Output:
+
+2026.05.02 05:39:54 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:55 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:55 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:56 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:57 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:39:57 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:58 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:39:58 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java. Output:
+
+2026.05.02 05:39:59 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java. Output:
+
+2026.05.02 05:39:59 INFO  time: code lens generation in 2.16s
+2026.05.02 05:40:00 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:40:00 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:40:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 846
+mag 02, 2026 5:40:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 843
+2026.05.02 05:40:00 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:40:00 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:40:03 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:40:22 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:40:22 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:40:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 859
+2026.05.02 05:40:23 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:40:25 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:40:25 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:40:26 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:40:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 862
+2026.05.02 05:40:26 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:40:26 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:40:27 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:40:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 864
+2026.05.02 05:40:26 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:40:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 866
+2026.05.02 05:40:28 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:40:28 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:40:29 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java. Output:
+
+2026.05.02 05:40:29 INFO  time: code lens generation in 1.68s
+mag 02, 2026 5:40:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 868
+2026.05.02 05:40:33 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:40:33 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:40:33 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:40:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 872
+mag 02, 2026 5:40:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 874
+mag 02, 2026 5:40:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 876
+mag 02, 2026 5:40:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 877
+mag 02, 2026 5:40:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 878
+2026.05.02 05:40:35 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:40:35 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:40:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 881
+2026.05.02 05:40:37 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/Client.java. Output:
+
+2026.05.02 05:40:37 INFO  time: code lens generation in 2.28s
+2026.05.02 05:40:37 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java
+2026.05.02 05:40:37 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:40:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 885
+2026.05.02 05:40:37 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:40:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 883
+2026.05.02 05:40:39 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:40:40 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:41:20 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:41:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 896
+2026.05.02 05:41:23 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:41:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 897
+2026.05.02 05:41:23 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+mag 02, 2026 5:41:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 898
+2026.05.02 05:41:25 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:41:25 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:41:28 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:41:28 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\Client.java. Using fallback presentation compiler.
+2026.05.02 05:41:32 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java
+2026.05.02 05:41:32 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:41:34 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:41:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 903
+2026.05.02 05:41:35 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:41:36 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/BookRecommender.java. Output:
+
+mag 02, 2026 5:41:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 906
+2026.05.02 05:41:36 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:41:38 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:41:59 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:42:01 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:42:01 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:42:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 921
+2026.05.02 05:42:02 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/BookRecommender.java. Output:
+
+2026.05.02 05:42:02 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:42:03 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:42:04 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java
+2026.05.02 05:42:04 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:42:04 INFO  Created report: Optional[file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/BookRecommender.java]
+2026.05.02 05:42:04 INFO  QDox parse error in file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/BookRecommender.java (full report at: "C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\.metals\.reports\metals-full\2026-05-02\r_qdox-error_05-42-04-140.md")
+mag 02, 2026 5:42:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 925
+2026.05.02 05:42:08 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:42:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 926
+2026.05.02 05:42:08 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:42:08 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:42:10 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:42:12 WARN  Running javac-semanticdb failed for file:///C:/Users/Mouhammad%20Toure/OneDrive%20-%20Università%20degli%20Studi%20dell'Insubria/Documents/GitHub/BookRecommender/BookRecommender/BookRecommender/src/bookrecommender/BookRecommender.java. Output:
+
+2026.05.02 05:42:12 INFO  time: code lens generation in 3.69s
+2026.05.02 05:42:12 WARN  no build target for: C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java
+mag 02, 2026 5:42:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 931
+2026.05.02 05:42:13 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:42:13 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:42:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 935
+mag 02, 2026 5:42:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 938
+mag 02, 2026 5:42:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 937
+2026.05.02 05:42:15 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:42:21 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:43:02 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:43:07 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:43:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 954
+2026.05.02 05:43:07 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:43:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 955
+2026.05.02 05:43:09 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:43:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 956
+2026.05.02 05:43:09 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:43:12 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:43:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 958
+2026.05.02 05:43:12 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:43:14 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:43:16 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:43:16 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+2026.05.02 05:43:19 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:43:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 963
+2026.05.02 05:43:21 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
+mag 02, 2026 5:43:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 964
+2026.05.02 05:43:21 INFO  no build target found for C:\Users\Mouhammad Toure\OneDrive - Università degli Studi dell'Insubria\Documents\GitHub\BookRecommender\BookRecommender\BookRecommender\src\bookrecommender\BookRecommender.java. Using fallback presentation compiler.
