@@ -1,9 +1,0 @@
-{
-    "files.watcherExclude": {
-        "**/target": true
-    },
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "c:\\Users\\Mouhammad Toure\\Downloads\\postgresql-42.7.5.jar"
-    ]
-}

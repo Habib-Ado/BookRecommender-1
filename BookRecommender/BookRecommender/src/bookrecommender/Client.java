@@ -18,11 +18,12 @@ import java.util.Scanner;
 
 public class Client {
 
+    String url = "rmi://192.168.43.94:1099/BookRecommender";
+    
     private static final String ipAdress = "192.168.43.94";
     private static final int PORT = 1099;
     private static final String SERVICE_NAME = "BookRecommender";
-
-    private static Scanner scanner = new Scanner(System.in);  
+    private static Scanner scanner = new Scanner(System.in);
     private static InterfaceBook interfaceBook;
     private UserID userId;
 
@@ -33,14 +34,14 @@ public class Client {
      public static void main(String[] args) {
         try {
 
-            Registry registry = LocateRegistry.getRegistry(ipAdress, PORT);
+            Registry registry = LocateRegistry.getRegistry(ipAdress,PORT);
             interfaceBook = (InterfaceBook) registry.lookup(SERVICE_NAME);
             System.out.println("Connessione al server effettuata con successo");          
             Client client = new Client();  
             client.start();
         } catch (Exception e) {
             System.err.println("Errore nell'avvio del client: " + e.getMessage());
-            e.printStackTrace(); 
+            e.printStackTrace();
         }
     }
 
@@ -49,7 +50,7 @@ public class Client {
         try {           
            
             while (true) {
-                System.out.println("MENU DELLA PIATTAFORMA BOOKRECOMMENDER:");
+                System.out.println("\nMENU DELLA PIATTAFORMA BOOKRECOMMENDER:\n");
                 if (userId == null) {
                     menuNonLoggato();
                 } else {
@@ -118,14 +119,13 @@ public class Client {
             return;
         }
         System.out.println("1. Visualizza libri");
-        System.out.println("2. Per cercare libri");
+        System.out.println("2. Per cerca libri");
         System.out.println("3. Gestione libreria");
         System.out.println("4. Inserisci valutazione libro");
         System.out.println("5. Inserisci consiglio libro");
-        System.out.println("6. Visualizza profilo");
-        System.out.println("9. Modifica profilo");
-        System.out.println("10. Cambia password");
-        System.out.println("11. Logout");
+        System.out.println("6. Gestione profilo");
+        System.out.println("7. Visualizza lista utenti");
+        System.out.println("8. Logout");
         System.out.println("0. Esci");
         System.out.print("Scegli un'opzione:");
 
@@ -158,7 +158,7 @@ public class Client {
             case 0:
                 System.out.println("Arrivederci!");
                 try {
-                     System.exit(interfaceBook.esci( userId.getUserID()));
+                     System.exit(interfaceBook.esci(userId.getUserID()));
                 } catch (Exception e) {
                     System.err.println("Errore durante il logout: " + e.getMessage());
                 }
@@ -168,32 +168,36 @@ public class Client {
     }
 
     private void ricercaLibri(){
-        while(true){
-            System.out.println("RICERCA LIBRI");
-            System.out.println("1. Cerca libro con titolo");
-            System.out.println("2. Cerca libro con autore");
-            System.out.println("3. Cerca libro con autore e anno");
-            System.out.println("4. Torna al menu principale");  
-            System.out.print("Scegli un'opzione:");
+        try {
+            while (true) {
+                System.out.println("RICERCA LIBRI");
+                System.out.println("1. Ricerca per titolo");
+                System.out.println("2. Ricerca per autore");
+                System.out.println("3. Ricerca per genere");
+                System.out.println("0. Torna al menu principale");
+                System.out.print("Scegli un'opzione: ");
 
-            int scelta0 = leggiIntero(scanner.nextLine());
-
-            switch (scelta0) {
-                case 1:
-                    cercaLibroConTitolo();
-                    break;
-                case 2:
-                    cercaLibroConAutore();
-                    break;
-                case 3:
-                    cercaLibroConAutoreAnno();
-                    break;
-                case 4:
-                    System.out.println("Torno al menu principale");
-                    break;
-                default:
-                    System.out.println("Scelta non valida. Riprova.");
+                int scelta = leggiIntero(scanner.nextLine());
+                switch (scelta) {
+                    case 1:
+                        cercaLibroConTitolo();
+                        break;
+                    case 2:
+                        cercaLibroConAutore();
+                        break;
+                    case 3:
+                        cercaLibroConAutoreAnno();
+                        break;
+                    case 0:
+                        System.out.println("Torno al menu principale");
+                        break;
+                    default:
+                        System.out.println("Scelta non valida. Riprova.");
+                }
             }
+           
+        }catch(Exception e){
+            System.err.println("Errore del client: " + e.getMessage());
         }
     }
 
@@ -306,7 +310,9 @@ public class Client {
             System.out.println("2. Modifica profilo");
             System.out.println("3. Cambia password");
             System.out.println("4. Elimina profilo");
-            System.out.println("5. Torna al menu principale");  
+            System.out.println("5. Configura questione e risposta segreta");
+            System.out.println("6. Modifica questione e risposta segreta");
+            System.out.println("0. Torna al menu principale");  
             System.out.print("Scegli un'opzione:");
 
             int scelta0 = leggiIntero(scanner.nextLine());
@@ -325,8 +331,14 @@ public class Client {
                     eliminaProfilo();
                     break;
                 case 5:
-                    System.out.println("Torno al menu principale");
+                    configuraQuestioneRisposta();
                     break;
+                case 6:
+                    modificaQuestioneRisposta();
+                    break;
+                case 0:
+                    System.out.println("Torno al menu principale");
+                    return;
                 default:
                     System.out.println("Scelta non valida. Riprova.");
             }
@@ -381,6 +393,48 @@ public class Client {
         }
     }
 
+    private void configuraQuestioneRisposta(){
+        try {
+            System.out.println("CONFIGURAZIONE QUESTIONE E RISPOSTA SEGRETA");
+            String esistenteQuestion = interfaceBook.recuperoQuestione(userId.getUserID());
+            if (esistenteQuestion != null && !esistenteQuestion.isEmpty()) {
+                System.out.println("Hai già una questione segreta configurata: " + esistenteQuestion);
+                System.out.println("Se vuoi modificarla, usa l'opzione 'Modifica questione e risposta segreta' nel menu di gestione del profilo.");
+                return;
+            }
+            System.out.println("Inserisci questione segreta: ");
+            String question = scanner.nextLine();
+            System.out.println("Inserisci risposta segreta: ");
+            String risposta = scanner.nextLine();
+            String risultato = interfaceBook.configRecuperoPassword(userId.getUserID(), question, risposta);
+            System.out.println(risultato);
+        }catch(Exception e){
+            System.err.println("Errore del client: " + e.getMessage());
+        }
+    }
+
+    private void modificaQuestioneRisposta(){
+        try {
+            System.out.println("MODIFICA QUESTIONE E RISPOSTA SEGRETA");
+            String esistenteQuestion = interfaceBook.recuperoQuestione(userId.getUserID());
+            if (esistenteQuestion == null || esistenteQuestion.isEmpty()) {
+                System.out.println("Non hai ancora una questione segreta configurata.") ;
+                System.out.println("Usa l'opzione 'Configura questione e risposta segreta' per aggiungerla.");
+                return;
+            }
+            System.out.println("Inserisci la tua password per confermare l'identità: ");
+            String password = scanner.nextLine();
+            System.out.println("Inserisci nuova questione segreta: ");
+            String question = scanner.nextLine();
+            System.out.println("Inserisci nuova risposta segreta: ");
+            String risposta = scanner.nextLine();
+            String risultato = interfaceBook.modificaRecuperoPassword(userId.getUserID(),password, question, risposta);
+            System.out.println(risultato);
+        }catch(Exception e){
+            System.err.println("Errore del client: " + e.getMessage());
+        }
+    }
+
     private void cambiaPassword(){
         try {
             System.out.println("CAMBIO PASSWORD");
@@ -414,9 +468,8 @@ public class Client {
         try {
             System.out.println("LOGOUT");
             userId = interfaceBook.logout(userId.getUserID());
-            if (userId != null) {
-                System.out.println("Logout effettuato con successo. Arrivederci, " + userId.getNomeCognome() + "!");
-                userId = null; // Reset dell'utente loggato
+            if (userId == null) {
+                System.out.println("Logout effettuato con successo!");
             } else {
                 System.out.println("Logout fallito.");
             }

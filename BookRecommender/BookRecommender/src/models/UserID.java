@@ -15,7 +15,7 @@ import java.io.Serializable;
  *  * Maercel Precieux Moukoko     -Matricola:     759674      -Sede: VA
  */
 public class UserID implements Serializable {
-    private static final long serialVersionUID = 1L; // Per la serializzazione
+    private static final long serialVersionUID = 1L;
 
     // Attributi della classe
     private String nomeCognome;

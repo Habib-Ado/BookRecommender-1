@@ -13,7 +13,7 @@ import java.io.Serializable;
  */
 
 public class Valutazione implements Serializable {
-    private static final long serialVersionUID = 1L; // Per la serializzazione
+    private static final long serialVersionUID = 1L;
 
     private String userID;
     private String titoloLibro;

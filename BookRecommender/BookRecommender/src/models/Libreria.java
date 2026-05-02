@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /*
+ * 
  *  PROGETTO REALIZZATO DA:
  *
  *  * MOUHAMMAD TOURE              -Matricola:     758051      -Sede: VA
@@ -14,7 +15,7 @@ import java.util.List;
  */
 
 public class Libreria implements Serializable {
-    private static final long serialVersionUID = 1L; // Per la serializzazione
+    private static final long serialVersionUID = 1L;
 
     private String userID;
     private String nomeLibreria;

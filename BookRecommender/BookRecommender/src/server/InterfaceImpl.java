@@ -260,6 +260,10 @@ public class InterfaceImpl extends UnicastRemoteObject implements InterfaceBook 
         return bookRecommender.configRecuperoPassword(username, questione, risposta);
     }
 
+    public String modificaRecuperoPassword(String username, String password, String questione, String risposta) throws RemoteException {
+        return bookRecommender.modificaRecuperoPassword(username, password, questione, risposta);
+    }
+
     /**
      * Recupera la password di un utente in base alla risposta alla questione di sicurezza.
      * @param username Lo username dell'utente

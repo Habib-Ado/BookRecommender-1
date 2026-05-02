@@ -1,6 +1,8 @@
 package models;
 
 import java.io.Serializable;
+
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -16,7 +18,7 @@ import java.util.List;
  *  * Maercel Precieux Moukoko     -Matricola:     759674      -Sede: VA 
  */
 public class Consiglio implements Serializable {
-    private static final long serialVersionUID = 1L; // Per la serializzazione
+    private static final long serialVersionUID = 1L;
 
     private String userID; // ID dell'utente che ha fatto il consiglio
     private String titoloLibro; // Titolo del libro referenziale

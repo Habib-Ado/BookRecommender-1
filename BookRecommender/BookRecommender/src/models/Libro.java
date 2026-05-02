@@ -10,8 +10,8 @@ import java.io.Serializable;
  */
 
 public class Libro implements Serializable {
-    private static final long serialVersionUID = 1L; // Per la serializzazione
-
+    private static final long serialVersionUID = 1L;
+    
     private String titolo;
     private String autore;
     private String categoria;

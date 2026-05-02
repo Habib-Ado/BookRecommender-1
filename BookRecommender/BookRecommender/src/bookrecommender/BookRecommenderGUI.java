@@ -10,6 +10,7 @@ import java.rmi.registry.Registry;
 import java.rmi.RemoteException;
 
 public class BookRecommenderGUI extends JFrame {
+    private static final String RMI_HOST = "192.168.43.94"; // Cambia se il server è su un host diverso
     private static final String SERVICE_NAME = "BookRecommender";
     private static final int RMI_PORT = 1099;
 
@@ -18,14 +19,15 @@ public class BookRecommenderGUI extends JFrame {
     private boolean isLoggedIn = false; // Stato di login
 
     public BookRecommenderGUI() {
+
         setTitle("Book Recommender");
-        setSize(800, 600);
+        setSize(1000, 600);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
 
         // Connessione RMI
         try {
-            Registry registry = LocateRegistry.getRegistry(RMI_PORT);
+            Registry registry = LocateRegistry.getRegistry(RMI_HOST, RMI_PORT);
             interfaceBook = (InterfaceBook) registry.lookup(SERVICE_NAME);
             JOptionPane.showMessageDialog(this, "Connessione al server RMI avvenuta con successo!");
         } catch (Exception e) {

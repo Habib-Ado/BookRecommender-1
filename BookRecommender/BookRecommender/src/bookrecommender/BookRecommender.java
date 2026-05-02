@@ -273,8 +273,6 @@ public class BookRecommender {
             return "ERRORE: Password non valida. Deve contenere almeno 8 caratteri, una lettera e un numero.";
         }
 
-        password = hashedPassword(password);
-
         // Inserimento nel database
         try (PreparedStatement stmt = getConnection().prepareStatement(
                 "INSERT INTO userid (nome_cognome, codice_fiscale, email, userid, password) VALUES (?, ?, ?, ?, ?)")) {
@@ -286,8 +284,8 @@ public class BookRecommender {
 
             int rowsAffected = stmt.executeUpdate();
             if (rowsAffected > 0) {
-                /*UserID newUser =*/ new UserID(name, cf, email, userid, password);
-                //userSessions.put(userid, newUser);
+                UserID newUser = new UserID(name, cf, email, userid, password);
+                userSessions.put(userid, newUser);
                 return "OK: Registrazione effettuata con successo.";
             } else {
                 return "ERRORE: Errore durante la registrazione.";
@@ -304,11 +302,10 @@ public class BookRecommender {
      * @return Messaggio di conferma o errore
      */
     public synchronized UserID login(String username, String password) {
-       if(userSessions.containsKey(username)) {
+        if (userSessions.containsKey(username)) {
             return (UserID) null;
         }
 
-         // Verifica che la password sia impostata
         try (PreparedStatement stmt = getConnection().prepareStatement(
                 "SELECT * FROM userid WHERE userid = ? AND password = ?")) {
             stmt.setString(1, username);
@@ -454,7 +451,6 @@ public class BookRecommender {
 
         UserID user = getUserFromSessions(username);
         if (user != null) {
-            risposta = hashedPassword(risposta);
             user.setQuestione(questione);
             user.setRisposta(risposta);
         }
@@ -473,6 +469,40 @@ public class BookRecommender {
             }
         } catch (SQLException e) {
             return "ERRORE: Errore durante la configurazione del recupero password: " + e.getMessage();
+        }
+    }
+
+    public String modificaRecuperoPassword(String username, String password, String questione, String risposta) throws RemoteException{
+        if (!isDatabasePasswordSet()) {
+            return "ERRORE: Password del database non impostata. Riavvia il server.";
+        }
+
+        if (!verificaUserIDEsistente(username)) {
+            return "ERRORE: UserID non esistente.";
+        }
+
+        UserID user = getUserFromSessions(username);
+
+        if (!user.getPassword().equals(hashedPassword(password))) {
+            return "ERRORE: Password errata.";
+        }
+        user.setQuestione(questione);
+        user.setRisposta(hashedPassword(risposta));
+        
+        try (PreparedStatement stmt = getConnection().prepareStatement(
+                "UPDATE userid SET questione = ?, risposta = ? WHERE userid = ?")) {
+            stmt.setString(1, questione);
+            stmt.setString(2, hashedPassword(risposta));
+            stmt.setString(3, username);
+
+            int rowsAffected = stmt.executeUpdate();
+            if (rowsAffected > 0) {
+                return "OK: Configurazione per il recupero password aggiornata con successo.";
+            } else {
+                return "ERRORE: Errore durante l'aggiornamento della configurazione del recupero password.";
+            }
+        } catch (SQLException e) {
+            return "ERRORE: Errore durante l'aggiornamento della configurazione del recupero password: " + e.getMessage();
         }
     }
 
@@ -1090,12 +1120,12 @@ public class BookRecommender {
 
     public synchronized int esci(String userId) {
         userSessions.remove(userId);
-        try {
-            if (connection != null && !connection.isClosed()) {
+        try{
+            if(connection != null || !connection.isClosed()){
                 connection.close();
             }
-        } catch (SQLException e) {
-            System.err.println("Errore durante la chiusura della connessione: " + e.getMessage());
+        }catch(SQLException e){
+            System.err.println("Errore durante la chiusura della connessione: "+ e.getMessage());
         }
         return 0;
     }

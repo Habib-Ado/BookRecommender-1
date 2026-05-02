@@ -23,6 +23,7 @@ public interface InterfaceBook extends Remote {
   public String registrazione(String name, String cf, String email, String userid, String password) throws RemoteException;
   public UserID login(String userid, String password) throws RemoteException;
   public String configRecuperoPassword(String username, String questione, String risposta) throws RemoteException;
+  public String modificaRecuperoPassword(String username, String password, String questione, String risposta) throws RemoteException;
   public String visualizzaProfilo(String userId) throws RemoteException;
   public String modificaProfilo(String userId, String name, String cf, String email) throws RemoteException;
   public String eliminaProfilo(String userId, String password) throws RemoteException;
