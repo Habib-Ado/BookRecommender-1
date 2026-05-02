@@ -1,10 +1,9 @@
 {
-    "java.project.sourcePaths": ["src"],
-    "java.project.outputPath": "bin",
+    "files.watcherExclude": {
+        "**/target": true
+    },
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "c:\\Users\\Mouhammad Toure\\Downloads\\postgresql-42.7.5.jar",
-        "c:\\Users\\Africa Unita\\Downloads\\postgresql-42.7.5.jar",
-        "c:\\Users\\Africa Unita\\Downloads\\jbcrypt-0.4.jar"
+        "c:\\Users\\Mouhammad Toure\\Downloads\\postgresql-42.7.5.jar"
     ]
 }
